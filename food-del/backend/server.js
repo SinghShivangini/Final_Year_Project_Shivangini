@@ -31,3 +31,5 @@ app.get("/", (req, res) => {
   });
 
 app.listen(port, () => console.log(`Server started on http://localhost:${port}`))
+
+//mongodb+srv://shivangni636:<db_password>@cluster0.cdveb.mongodb.net/?
